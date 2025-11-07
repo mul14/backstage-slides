@@ -1,4 +1,6 @@
 ---
+titleTemplate: "%s"
+favicon: ""
 theme: default
 transition: none
 title: Empowering Engineering Teams with Backstage
@@ -181,7 +183,7 @@ tag: "Workshop"
 git clone https://github.com/mul14/backstage-demo
 cd backstage-demo
 yarn install
-yarn dev
+yarn start
 ```
 
 2. Verify the Frontend (`http://localhost:3000`) and Backend (`http://localhost:7007`) are running
