@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+  <defs>
+    <linearGradient id="grad-gatus" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00C4B3"/>
+      <stop offset="100%" stop-color="#0052A5"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="144" height="144" rx="28" fill="#0B1F33"/>
+  <path d="M40 110 L64 54 L88 90 L104 70 L120 110" fill="none" stroke="url(#grad-gatus)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="64" cy="54" r="7" fill="#00C4B3"/>
+  <circle cx="88" cy="90" r="7" fill="#00C4B3"/>
+  <circle cx="104" cy="70" r="7" fill="#00C4B3"/>
+  <circle cx="120" cy="110" r="7" fill="#00C4B3"/>
+  <circle cx="40" cy="110" r="7" fill="#00C4B3"/>
+  <text x="80" y="135" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle" fill="#98E8FF">
+    Gatus
+  </text>
+</svg>
